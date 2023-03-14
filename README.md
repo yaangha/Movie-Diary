@@ -27,6 +27,7 @@ Java 스윙으로 구현해낸 간단한 영화 기록 프로그램입니다.
 
 + 로그인 & 회원가입 화면
 
-![join](https://user-images.githubusercontent.com/113163657/225024401-21d9d50d-11f6-4214-a3f6-1699e1e9258b.png)
 ![login](https://user-images.githubusercontent.com/113163657/225024422-995febc4-f337-486f-8379-135ff7de1d53.png)
+
+![join](https://user-images.githubusercontent.com/113163657/225024401-21d9d50d-11f6-4214-a3f6-1699e1e9258b.png)
 
